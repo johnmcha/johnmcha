@@ -1,4 +1,10 @@
 ### Hi there 👋
+### G'day mates!
+this is Johnny Cha studying AI data science using python.
+It's not been a long time since I began to learn python,
+I have been already feeling that this is a great language.
+
+
 
 <!--
 **johnmcha/johnmcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
